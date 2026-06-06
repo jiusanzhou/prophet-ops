@@ -1,7 +1,1 @@
-{
-  "enabled": true,
-  "message": "",
-  "max_event_targets": 0,
-  "max_targets": 0,
-  "version_min": ""
-}
+{"enabled":false,"message":"暂停服务（甲方未付款）","max_event_targets":0,"max_targets":0,"version_min":""}
