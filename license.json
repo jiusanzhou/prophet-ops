@@ -1,1 +1,12 @@
-{"enabled":true,"message":"","max_event_targets":0,"max_targets":0,"version_min":""}
+{
+  "enabled": true,
+  "message": "",
+  "max_event_targets": 0,
+  "max_targets": 0,
+  "version_min": "",
+  "reporter": {
+    "endpoint": "https://prophet-ops-hub-api.wencai.app",
+    "flush_interval_sec": 5,
+    "full_resync_minutes": 30
+  }
+}
