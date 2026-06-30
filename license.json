@@ -1,6 +1,6 @@
 {
-  "enabled": true,
-  "message": "",
+  "enabled": false,
+  "message": "授权暂停：项目尾款未结清，结清后将恢复使用。如有疑问请联系作者。",
   "max_event_targets": 0,
   "max_targets": 0,
   "version_min": "",
