@@ -8,5 +8,6 @@
     "endpoint": "https://prophet-ops-hub-api.wencai.app",
     "flush_interval_sec": 5,
     "full_resync_minutes": 30
-  }
+  },
+  "_updated_at": "2026-07-01T01:27:00+08:00"
 }
